@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kk.heumueller@gmail.com
+	name = KseniaKomarova
